@@ -150,7 +150,6 @@ tr:hover {
     background-color: hsl(30, 54%, 90%);   
 }
 .nobordes {
-    padding-bottom: 0;
     border: none;
 }
 
